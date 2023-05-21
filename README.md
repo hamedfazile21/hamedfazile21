@@ -14,6 +14,7 @@
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
+<a src="https://www.linkedin.com/in/hamed-fazeli-b649aa264/">Linkedin</a>
 <p align="left">
 </p>
 
